@@ -8,15 +8,6 @@ I am a passionate developer currently pursuing a **5-Year Integrated MCA** from 
 - 💬 Ask me about **Java, Python, or Data Structures**
 - ⚡ Fun fact: [Insert a fun fact or tech hobby, e.g., "I can debug code in my sleep!"]
 
-### 📊 GitHub Stats
-
-⚡ **My GitHub Activities:**
-<p align="left">
-  <img src="https://vercel.app" alt="Harshit's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -24,7 +15,7 @@ I am a passionate developer currently pursuing a **5-Year Integrated MCA** from 
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:harshittiwari112211@gmail.com>
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
