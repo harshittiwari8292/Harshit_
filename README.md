@@ -8,41 +8,6 @@ I am a passionate developer currently pursuing a **5-Year Integrated MCA** from 
 - 💬 Ask me about **Java, Python, or Data Structures**
 - ⚡ Fun fact: [Insert a fun fact or tech hobby, e.g., "I can debug code in my sleep!"]
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="C++" />
-      <br />C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Frontend" />
-      <br />HTML/CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Git" />
-      <br />Git/GitHub
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 ⚡ **My GitHub Activities:**
